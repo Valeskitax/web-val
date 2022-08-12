@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Bienvenid@ a mi páginatps!
+          Bienvenid@ a mi página!
         </h1>
 
         <p className="description">
